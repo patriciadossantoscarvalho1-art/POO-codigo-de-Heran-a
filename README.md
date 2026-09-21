@@ -1,2 +1,2 @@
-# POO-codigo-de-Heran-a
+# POO-codigo-de-Heranca
 Codigo Herança POO.
